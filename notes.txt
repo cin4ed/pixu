@@ -1,0 +1,3 @@
+RESOURCES:
+	List all runtime dependencies of my binary file.	
+	- https://stackoverflow.com/questions/59797228/what-are-the-binaries-files-needed-to-my-sdl2-program-so-it-works-in-another-com
