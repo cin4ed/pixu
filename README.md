@@ -1,7 +1,5 @@
 # Pixu - Pixel Art Editor (Early Development)
 
-## Description
-
 Pixu is a simple pixel art editor built using Lua and the LÖVE framework. It allows users to create pixel art designs with various tools and features.
 
 ## Installation
